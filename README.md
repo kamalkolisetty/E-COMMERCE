@@ -155,7 +155,7 @@ The application will be available at `http://localhost:3000`.
 - **React Router**: For handling routing in the application.
 - **CSS**: For styling the components.
 
-![](/ecommerce.mp4)
+![video](/ECOMMERCE.mp4)
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
